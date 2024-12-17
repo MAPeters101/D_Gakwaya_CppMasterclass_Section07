@@ -17,8 +17,7 @@ int main() {
 	std::string name;
 
 	cout << "Please type your name and age : " << endl;
-	cin >> name;
-	cin >> age1;
+	cin >> name >> age1;
 
 	cout << "Hello " << name << " you are " << age1 << " years old!" << endl;
 
