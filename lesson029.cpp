@@ -3,7 +3,7 @@
 using namespace std;
 
 consteval int get_value() {
-	return 4;
+	return 5;
 }
 
 int main() {
