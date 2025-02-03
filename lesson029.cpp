@@ -2,6 +2,7 @@
 
 using namespace std;
 
+/*
 consteval int get_value() {
 	return 5;
 }
@@ -11,4 +12,4 @@ int main() {
 	cout << "value : " << value << endl;
 	return 0;
 }
-
+*/
