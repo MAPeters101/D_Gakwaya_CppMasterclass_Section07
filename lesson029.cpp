@@ -1,9 +1,9 @@
 #include <iostream>
 
 using namespace std;
-/*
+
 consteval int get_value() {
-	return 3;
+	return 4;
 }
 
 int main() {
@@ -11,4 +11,4 @@ int main() {
 	cout << "value : " << value << endl;
 	return 0;
 }
-*/
+
